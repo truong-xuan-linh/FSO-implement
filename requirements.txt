@@ -1,0 +1,6 @@
+transformers==4.30.0 
+paddlepaddle>=2.3.1 
+paddleocr==2.6.1.3 
+vietocr>=0.3.8 
+Pillow==9.5.0
+torch==2.1.0+cu118
